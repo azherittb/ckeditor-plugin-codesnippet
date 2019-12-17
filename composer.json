@@ -17,6 +17,7 @@
            }
        }
     ],
+    "minimum-stability": "dev",
     "require": {
         "ckeditor-plugin/codesnippet": "master"
     },
