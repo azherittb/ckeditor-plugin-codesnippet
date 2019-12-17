@@ -1,26 +1,8 @@
 {
-    "name": "ckeditor-plugin/codesnippet_lib",
+    "name": "ckeditor-plugin/codesnippet",
     "type": "drupal-module",
     "description": "CKeditor plugin library",
     "license": "MIT",
-    "repositories": [
-       {
-           "type": "package",
-           "package": {
-               "name": "ckeditor/codesnippet",
-               "version": "master",
-               "type": "drupal-library",
-               "dist": {
-                   "url": "https://download.ckeditor.com/codesnippet/releases/codesnippet_4.11.4.zip",
-                   "type": "zip"
-               }
-           }
-       }
-    ],
-    "require": {
-        "ckeditor/codesnippet": "master"
-    },
-    "minimum-stability": "dev",
     "extra": {
         "_readme": [
             "CKeditor plugin library"
