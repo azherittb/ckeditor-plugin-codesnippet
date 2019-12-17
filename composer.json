@@ -18,7 +18,7 @@
        }
     ],
     "require": {
-        "ckeditor-plugin/codesnippet_lib": "master"
+        "ckeditor-plugin/codesnippet": "master"
     },
     "extra": {
         "_readme": [
