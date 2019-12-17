@@ -1,5 +1,5 @@
 {
-    "name": "ckeditor-plugin/codesnippet",
+    "name": "ckeditor-plugin/codesnippet_lib",
     "type": "drupal-module",
     "description": "CKeditor plugin library",
     "license": "MIT",
@@ -18,7 +18,7 @@
        }
     ],
     "require": {
-        "ckeditor-plugin/codesnippet": "master"
+        "ckeditor-plugin/codesnippet_lib": "master"
     },
     "extra": {
         "_readme": [
