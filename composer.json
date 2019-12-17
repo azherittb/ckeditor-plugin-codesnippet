@@ -2,7 +2,7 @@
     "name": "ckeditor-plugin/codesnippet",
     "type": "drupal-module",
     "description": "CKeditor plugin library",
-    "license": "The MIT License (MIT)",
+    "license": "MIT",
     "repositories": [
        {
            "type": "package",
