@@ -1,0 +1,27 @@
+{
+    "name": "ckeditor-plugin/codesnippet",
+    "type": "drupal-module",
+    "description": "CKeditor plugin library",
+    "repositories": [
+       {
+           "type": "package",
+           "package": {
+               "name": "ckeditor-plugin/codesnippet",
+               "version": "4.11.4",
+               "type": "drupal-library",
+               "dist": {
+                   "url": "https://download.ckeditor.com/codesnippet/releases/codesnippet_4.11.4.zip",
+                   "type": "zip"
+               }
+           }
+       }
+    ],
+    "require": {
+        "ckeditor-plugin/codesnippet": "~4.11.4"
+    },
+    "extra": {
+        "_readme": [
+            "CKeditor plugin library"
+        ]
+    }
+}
