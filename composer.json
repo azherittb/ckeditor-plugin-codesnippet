@@ -7,7 +7,7 @@
        {
            "type": "package",
            "package": {
-               "name": "ckeditor-plugin/codesnippet",
+               "name": "ckeditor/codesnippet",
                "version": "master",
                "type": "drupal-library",
                "dist": {
@@ -18,7 +18,7 @@
        }
     ],
     "require": {
-        "ckeditor-plugin/codesnippet": "master"
+        "ckeditor/codesnippet": "master"
     },
     "extra": {
         "_readme": [
