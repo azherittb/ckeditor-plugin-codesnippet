@@ -1,6 +1,7 @@
 {
     "name": "ckeditor-plugin/codesnippet",
-    "type": "drupal-module",
+    "type": "component",
+    "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
     "description": "CKeditor plugin library",
     "license": "MIT",
     "extra": {
