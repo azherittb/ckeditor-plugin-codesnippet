@@ -1,12 +1,14 @@
 {
-    "name": "ckeditor-plugin/codesnippet",
-    "type": "drupal-library",
-    "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
-    "description": "CKeditor plugin library",
-    "license": "MIT",
-    "extra": {
-        "_readme": [
-            "CKeditor plugin library"
-        ]
+  "name": "ckeditor-plugin/codesnippet",
+  "type": "component",
+  "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
+  "description": "CKeditor plugin library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David DeSandro",
+      "homepage": "http://desandro.com/",
+      "role": "developer"
     }
+  ]
 }
